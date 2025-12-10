@@ -26,7 +26,7 @@ The Van der Pol oscillator exhibits both stiff and non-stiff behavior depending 
 - `vdpODE.m`, `plotVectorField.m`, etc. – Modular helper functions
 
 ## 🚀 How to Run
-Open MATLAB and run `main.m`. Ensure all helper functions are in the same folder.
+Open MATLAB and run `main.m`. All the helper functions are in the same folder.
 
 ## 📌 Future Work
 - Extend to chaotic systems (e.g., Duffing oscillator)
